@@ -1,17 +1,17 @@
 {
-  "name": "pkg-name",
+  "name": "mini-vite",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "snowingfox",
   "license": "MIT",
-  "homepage": "https://github.com/snowingfox/pkg-name#readme",
+  "homepage": "https://github.com/snowingfox/mini-vite#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/snowingfox/pkg-name.git"
+    "url": "git+https://github.com/snowingfox/mini-vite.git"
   },
-  "bugs": "https://github.com/snowingfox/pkg-name/issues",
+  "bugs": "https://github.com/snowingfox/mini-vite/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
